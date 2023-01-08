@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jade-arinal-banares/tailwind-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jade-arinal-banares/tailwind-docs/issues"
+  },
+  "homepage": "https://github.com/jade-arinal-banares/tailwind-docs#readme",
+  "devDependencies": {
+    "sass": "^1.57.1"
+  }
+}

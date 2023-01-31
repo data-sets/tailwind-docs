@@ -1,1 +1,1 @@
-{"version":3,"sources":["../../scss/style.scss"],"names":[],"mappings":"AAAA,KACE,sCAAA,CACA,wBAAA,CACA,UAAA","file":"style.css"}
+{"version":3,"sources":["../assets/globals/_main.scss"],"names":[],"mappings":"AAAA,mBAGE,QAAA,CACA,QAAA,CACA,qBAAA,CAGF,KACE,qBAAA,CAGF,KACE,YAAA,CACA,YAAA,CACA,sBAAA,CACA,kBAAA,CACA,qBAAA,CAGF,GACE,cAAA,CACA,mBAAA,CACA,qFAAA,CAKA,oBAAA,CACA,4BAAA,CACA,qCAAA,CACA,yBAAA,CAAA,sBAAA,CAAA,iBAAA","file":"style.css"}
